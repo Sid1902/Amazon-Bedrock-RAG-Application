@@ -1,6 +1,6 @@
 # Amazon-Bedrock-RAG-Application
 
-Appication URL : ![NutriChatApplication] (https://nutrichat.streamlit.app/)
+Application URL : [NutriChatApplication](https://nutrichat.streamlit.app/)
 
 ## Architecture
 
