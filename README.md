@@ -45,5 +45,17 @@ aws configure
 
 ## Application Images 
 
-
+Front end of the Application
 ![](images/Image1.png)
+
+Then we start creating vector representations.
+![](images/Image2.png)
+
+Vector representations are created succesfully and stored locally.
+![](images/Image3.png)
+
+Then if we provide proper context based query then we get the results.
+![](images/Image4.png)
+
+And if the query is not in knowledge base of LLM then it returns such response.
+![](images/Image5.png)
