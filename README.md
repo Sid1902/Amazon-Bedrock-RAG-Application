@@ -3,7 +3,7 @@
 Appication URL : [NutriChatApplication] (https://nutrichat.streamlit.app/)
 
 ## How to run 
-![Architecture.png]
+![Architecture](Architecture.png)
 
 
 ```bash
