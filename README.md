@@ -1,7 +1,10 @@
 # Amazon-Bedrock-RAG-Application
 
+Appication URL : [NutriChatApplication] (https://nutrichat.streamlit.app/)
 
 ## How to run 
+![Architecture.png]
+
 
 ```bash
 conda create -n bedrockdemo python=3.8 -y 
